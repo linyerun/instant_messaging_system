@@ -1,6 +1,6 @@
 package define
 
-var MailPassword = "pzmaljknscpsebeg"
+var MailPassword = "填写你的邮箱生成的密钥"
 
 const TokenPrefix = "TOKEN_"          // 存储token的前缀
 const CodePrefix = "Code_"            // 存储code的前缀
